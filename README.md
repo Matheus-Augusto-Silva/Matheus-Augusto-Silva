@@ -25,16 +25,16 @@ Como um amante de tudo que envolve o mundo digital (incluindo o meu querido <img
 
 Por fim caso tenha gostado do que viu, já sabe onde me encontrar:
 
-<a target="_blank" href="https://www.linkedin.com/in/matheus-augusto-29b39b2b/">
+<a target="blank" href="https://www.linkedin.com/in/matheus-augusto-29b39b2b/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5531993872439">
+<a target="blank" href="https://api.whatsapp.com/send?phone=5531993872439">
   <img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:matheusaugusto-18@hotmail.com">
+<a target="blank" href="mailto:matheusaugusto-18@hotmail.com">
   <img align="left" alt="hotmail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/matheuzin90/">
+<a target="blank" href="https://www.instagram.com/matheuzin90/">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </br>
