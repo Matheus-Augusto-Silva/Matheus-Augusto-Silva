@@ -18,7 +18,7 @@ Como um amante de tudo que envolve o mundo digital (incluindo o meu querido <img
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> E estas são minhas atuais estatísticas no Github (Peço um desconto porque estou crescendo, jajá elas melhoram tá?) 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> E estas são minhas atuais estatísticas no Github 
    
 ![Matheus-Augusto-Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Augusto-Silva&show_icons=true)
 
