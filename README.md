@@ -8,7 +8,7 @@ Como um amante de tudo que envolve o mundo digital (incluindo o meu querido <img
 
 ----
 
-**Atualmente referente a Linguagens de programação, bibliotecas e Frameworks conheço:**  
+**Atualmente referente a Linguagens de programação, bibliotecas e Frameworks, conheço:**  
 
 <code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img title="Angular" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
