@@ -1,7 +1,7 @@
 ### 👋 Olá Mundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, Eu sou o Matheus!  
 
 
-Sou um desenvolvedor FrontEnd apaixonado por programação!!!**.
+Sou um desenvolvedor FrontEnd apaixonado por programação!!!.
 
 
 Como um amante de tudo que envolve o mundo digital (incluindo o meu querido <img alt="LinkdeIN" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="60px">, descobri após uma vasta experiência no setor administrativo, que a área de programação é a que eu quero seguir para o resto da vida!
